@@ -1,0 +1,2 @@
+download a source of tracking pt from YOLO official website
+or the notebook will download them automatically

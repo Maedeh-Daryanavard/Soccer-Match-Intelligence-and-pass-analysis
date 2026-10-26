@@ -5,7 +5,7 @@
 
 > **Research prototype:** Outputs such as player speeds, possession percentages, candidate passes, and passing quality are estimates, not independently validated official match statistics. Processing is offline by default; it is not guaranteed real-time, particularly on CPU.
 
-## Overview
+## 🎯Overview
 
 `Soccer_Match_Intelligence.ipynb` transforms broadcast-style football footage into an annotated video and structured CSV datasets. It combines pretrained football-specific YOLO models with ByteTrack, jersey-color clustering, pitch keypoint geometry, homography, and rule-based tactical analysis. **No training from scratch is required to run the supplied inference pipeline.**
 
@@ -244,3 +244,8 @@ Soccer-Match-Intelligence/
 
 Built with [Ultralytics](https://github.com/ultralytics/ultralytics), [OpenCV](https://opencv.org/), [scikit-learn](https://scikit-learn.org/), and [Roboflow Sports](https://github.com/roboflow/sports) ecosystem concepts. Check the applicable licenses of software, pretrained models, and videos before reuse or distribution.
 
+## 💡 Final Note
+
+Thank you for checking out the Kringloop ERP Demo project.  
+I hope you enjoy exploring the system and its features. ♻️✨
+Feel free to contribute, improve, or use it as inspiration for your own projects.

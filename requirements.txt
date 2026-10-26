@@ -1,0 +1,24 @@
+from pathlib import Path
+
+requirements = """\
+ultralytics
+supervision
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+torch
+torchvision
+imageio-ffmpeg
+ipython
+jupyter
+"""
+
+Path("requirements.txt").write_text(
+    requirements,
+    encoding="utf-8"
+)
+
+print("requirements.txt created")

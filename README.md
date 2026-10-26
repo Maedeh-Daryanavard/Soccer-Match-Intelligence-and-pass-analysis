@@ -245,5 +245,5 @@ Built with [Ultralytics](https://github.com/ultralytics/ultralytics), [OpenCV](h
 ## 💡 Final Note
 
 Thank you for checking out the Kringloop ERP Demo project.  
-I hope you enjoy exploring the system and its features. ♻️✨
-Feel free to contribute, improve, or use it as inspiration for your own projects.
+✨I hope you enjoy exploring the system and its features. 
+Feel free to contribute, improve, or use it as inspiration for your own projects.:-)

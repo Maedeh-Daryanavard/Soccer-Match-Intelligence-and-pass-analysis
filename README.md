@@ -17,11 +17,11 @@
 
 ### Pass analysis — view 1
 
-![Tactical pass analysis with three player classes — first example](output-screenshot/pass-analysis1-for-three-classes)
+![Tactical pass analysis with three player classes-first example](output-screenshot/pass-analysis1-for-three-classes.png)
 
 ### Pass analysis — view 2
 
-![Tactical pass analysis with three player classes — second example](output-screenshot/pass-analysis2-for-three-classes)
+![Tactical pass analysis with three player classes-second example](output-screenshot/pass-analysis2-for-three-classes.png)
 
 > **Screenshot filenames:** GitHub image links must match the exact file names and extensions. The last two paths above were provided without extensions; if your files are PNGs, change their links to `pass-analysis1-for-three-classes.png` and `pass-analysis2-for-three-classes.png` (or use the actual `.jpg` / `.jpeg` extension). Commit the images to the `output-screenshot/` directory.
 
